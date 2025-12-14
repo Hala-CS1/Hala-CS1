@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Hala Al-Bishri
 
-### 👩‍💻 Computer Science Student | Future Developer
+### 👩🏻‍💻 Computer Science Student 
 
-I'm focused on building strong programming fundamentals and exploring creative solutions in technology.
+### 💻 Computer Science Student
+
+I am currently focused on building strong programming fundamentals and exploring creative solutions in technology.
 
 ---
 
