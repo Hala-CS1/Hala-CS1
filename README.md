@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nora Al-Saadi
+# 👋 Hello, I'm Hala Al-bushei
 
 ### 👩🏻‍💻 Computer Science Student 
 
