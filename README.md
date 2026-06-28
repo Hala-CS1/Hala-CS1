@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hala Al-bushei
+# 👋 Hello, I'm Hala Albushri
 
 ### 👩🏻‍💻 Computer Science Student 
 
