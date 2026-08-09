@@ -7,7 +7,10 @@
 I'm a Computer Science student passionate about programming, technology, and creative problem-solving.  
 I enjoy building projects, learning new technologies, and continuously improving my technical skills.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hala%20Albushri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/)
+<br>
+
+<!-- LinkedIn Badge - Grey Style -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hala%20Albushri-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/)
 
 </div>
 
@@ -44,17 +47,6 @@ I enjoy building projects, learning new technologies, and continuously improving
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-555555?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="Hala's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" width="48%" />
-
-</div>
 
 ---
 
