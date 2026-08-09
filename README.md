@@ -17,6 +17,16 @@ I enjoy building projects, learning new technologies, and continuously improving
 
 ---
 
+## 🎮 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🔧 Technical Skills
 
 ### 💻 Programming Languages
@@ -48,16 +58,6 @@ I enjoy building projects, learning new technologies, and continuously improving
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-555555?style=for-the-badge)
-
----
-
-## 🎮 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
