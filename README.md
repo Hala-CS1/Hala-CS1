@@ -9,8 +9,9 @@ I enjoy building projects, learning new technologies, and continuously improving
 
 <br>
 
-<!-- LinkedIn Badge - Grey Style (Logo Only) -->
+<!-- Connect Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/)
+[![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hala.albushri@gmail.com)
 
 </div>
 
@@ -47,6 +48,16 @@ I enjoy building projects, learning new technologies, and continuously improving
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-555555?style=for-the-badge)
+
+---
+
+## 🎮 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
