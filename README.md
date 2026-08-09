@@ -9,8 +9,8 @@ I enjoy building projects, learning new technologies, and continuously improving
 
 <br>
 
-<!-- LinkedIn Badge - Grey Style -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hala%20Albushri-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/)
+<!-- LinkedIn Badge - Grey Style (Logo Only) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/)
 
 </div>
 
