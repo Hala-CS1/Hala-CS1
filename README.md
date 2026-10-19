@@ -35,7 +35,7 @@ I enjoy building projects, learning new technologies, and continuously improving
 
 ### 🧠 Databases & Concepts
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge) ![Database Design](https://img.shields.io/badge/Database_Design-2E8B57?style=for-the-badge) ![CRUD](https://img.shields.io/badge/CRUD-008080?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge) ![Data Structures](https://img.shields.io/badge/Data_Structures-4682B4?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/Algorithms-708090?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge) ![Database Design](https://img.shields.io/badge/Database_Design-2E8B57?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge) ![Data Structures](https://img.shields.io/badge/Data_Structures-4682B4?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/Algorithms-708090?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 
