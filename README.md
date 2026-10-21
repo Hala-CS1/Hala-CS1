@@ -4,17 +4,11 @@
 
 ### 👩🏻‍💻 Computer Science Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-purple?style=for-the-badge&logo=framer&logoColor=white)](https://hala-albushri.framer.website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=framer&logoColor=white)](https://hala-albushri.framer.website) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hala.albushri@gmail.com)
 
 I'm a Computer Science student passionate about programming, technology, and creative problem-solving.  
 
 I enjoy building projects, learning new technologies, and continuously improving my technical skills.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hala-albushri/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:Hala.albushri@gmail.com)
 
 </div>
 
@@ -27,6 +21,7 @@ I enjoy building projects, learning new technologies, and continuously improving
 !Snake animation
 
 </div>
+
 
 ---
 
