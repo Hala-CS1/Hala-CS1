@@ -4,7 +4,8 @@
 
 ### 👩🏻‍💻 Computer Science Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=framer&logoColor=white)](https://hala-albushri.framer.website) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hala.albushri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=framer&logoColor=white)](https://hala-albushri.framer.website) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-albushri/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Hala.albushri@gmail.com)
+
 I'm a Computer Science student passionate about programming, technology, and creative problem-solving.  
 
 I enjoy building projects, learning new technologies, and continuously improving my technical skills.
